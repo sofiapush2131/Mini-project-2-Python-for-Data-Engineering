@@ -1,0 +1,13 @@
+2026-May-07-14:11:18 : Created default exchange_rate.csv
+2026-May-07-14:11:18 : Preliminaries complete. Initiating ETL process
+2026-May-07-14:11:18 : Data extraction started
+2026-May-07-14:11:23 : Data extraction complete
+2026-May-07-14:11:23 : Data transformation started
+2026-May-07-14:11:23 : Data transformation complete
+2026-May-07-14:11:23 : Data loading to CSV started
+2026-May-07-14:11:23 : Data saved to CSV: Largest_banks_data.csv
+2026-May-07-14:11:23 : Data loading to Database started
+2026-May-07-14:11:23 : Data saved to DB: Banks.db / table 'Largest_banks'
+2026-May-07-14:11:23 : Running queries
+2026-May-07-14:11:23 : Query execution complete
+2026-May-07-14:11:23 : ETL process complete
